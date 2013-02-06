@@ -64,8 +64,13 @@ Parts
     </tr>
     <tr>
         <td>ISCP Header</td>
-        <td>0.1" pitch Header 2x3</td>
+        <td>0.1" Pitch Header Male 2x3</td>
         <td>DigiKey P/N: <a href="http://www.digikey.com/product-detail/en/77313-422R06LF/609-4517-ND/2665635">609-4517-ND</a></td>
+    </tr>
+    <tr>
+        <td>J1, J2</td>
+        <td>0.1" Pitch Header Female 1x8</td>
+        <td><a href="http://www.digikey.com/product-detail/en/66951-008LF/609-2238-ND/1002553">609-2238-ND</a></<td>
     </tr>
     <tr>
         <td></td>

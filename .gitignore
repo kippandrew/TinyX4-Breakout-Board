@@ -1,2 +1,6 @@
 Eagle/*.b#*
 Eagle/*.s#*
+Eagle/*.ger
+Eagle/*.gpi
+Eagle/*.xln
+Eagle/*.dri
