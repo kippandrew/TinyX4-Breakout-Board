@@ -87,9 +87,4 @@ Parts List
         <td>0.1" Pitch Header Female 1x8</td>
         <td><a href="http://www.digikey.com/product-detail/en/66951-008LF/609-2238-ND/1002553">609-2238-ND</a></<td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td><a href=""></a></td>
-    </tr>
 </table>
