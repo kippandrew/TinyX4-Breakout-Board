@@ -1,5 +1,20 @@
+About
+-----
 
-Parts
+The TinyX4 Breakout Board is designed to make developing with the Atmel ATTiny84 and ATTiny44 micro-controllers easier. 
+
+![TinyX4 Board](https://raw.github.com/kippandrew/TinyX4-Breakout-Board/master/tinyx4-board.png)
+
+![TinyX4 Board](https://raw.github.com/kippandrew/TinyX4-Breakout-Board/master/tinyx4-schematic.png)
+
+Features
+--------
+- Onboard 5V regulator (maximum voltage 20V)
+- Dedicated ICSP header
+- Power indicator LED
+- All pins broken out 
+
+Parts List
 -----
 <table>
     <tr>
